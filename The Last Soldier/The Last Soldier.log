@@ -1,0 +1,34 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  The Last Soldier.cpp
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(29,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(41,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(42,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(43,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(44,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(550,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(565,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(580,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(595,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(826,38): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(843,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(848,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(852,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(856,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(908,42): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(922,42): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(944,48): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(1076,36): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(1158,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(1162,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(1166,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(1170,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(1235,45): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(1240,26): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(1241,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(1429,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\The Last Soldier.cpp(1700,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 272 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  The Last Soldier.vcxproj -> C:\Users\asus\source\repos\The Last Soldier\The Last Soldier\x64\Release\The Last Soldier.exe
